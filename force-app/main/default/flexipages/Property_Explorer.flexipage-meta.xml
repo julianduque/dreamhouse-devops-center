@@ -37,14 +37,14 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>propertyMap</componentName>
-                <identifier>propertyMap</identifier>
+                <componentName>propertySummary</componentName>
+                <identifier>propertySummary</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
-                <componentName>propertySummary</componentName>
-                <identifier>propertySummary</identifier>
+                <componentName>propertyMap</componentName>
+                <identifier>propertyMap</identifier>
             </componentInstance>
         </itemInstances>
         <name>right</name>
